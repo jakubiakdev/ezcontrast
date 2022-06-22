@@ -10,6 +10,8 @@ Please note that there might be errors regarding the untrusted nature of an unsi
 
 ## How to use
 
+![Showcase video](showcase.gif)
+
 Pick 2 colors using the corresponding buttons on the left, and hover the cursor over the color. The contrast ratio of two selected colors and the compliance of that contrast ratio will be displayed. You can increase the delay with the slider to make it easier to pick the color
 
 ## Problems with Windows
